@@ -1,15 +1,15 @@
 {
-	"geode": "4.5.0",
+	"geode": "5.5.3",
 	"early-load": true,
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
 	},
 	"id": "user95401.gif-sprites",
 	"name": "GIF Sprites",
-	"version": "v2.0.0",
+	"version": "v2.0.1",
 	"developers": [ "user95401" ],
 	"description": "Adds support for animated gif files in CCSprite::create(), returns CCGIFAnimatedSprite.",
 	"tags": [ "developer", "interface", "utility" ],
